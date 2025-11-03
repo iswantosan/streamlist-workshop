@@ -1,0 +1,35 @@
+/* ====== STYLE DASHBOARD STREAMLIT ====== */
+section[data-testid="stSidebar"] div[data-testid="stImage"] {
+    order: -1;
+}
+
+/* Ubah title dan heading */
+h1,
+.stMarkdown h1,
+.stApp h1 {
+    font-size: 32px !important;
+    color: #1ee57b;
+    text-align: left;
+}
+
+h2 {
+    font-size: 26px !important;
+    color: #333;
+}
+
+/* Gaya sidebar */
+[data-testid="stSidebar"] {
+    background-color: #E3F2FD;
+}
+
+[data-testid="stSidebar"] h2 {
+    color: #1565C0;
+    font-size: 22px;
+}
+
+/* Font umum */
+p,
+div,
+span {
+    font-family: "Segoe UI", sans-serif;
+}

@@ -1,0 +1,13 @@
+[server]
+runOnSave = true       # otomatis reload saat file di-save
+port = 8501            # ubah port jika perlu
+headless = false         # jalankan tanpa membuka browser otomatis (opsional)
+
+[theme]
+base = "dark"          # atau "dark"
+#primaryColor = "#1E88E5"    # warna utama tombol/aksen
+#backgroundColor = "#F5F7FA" # warna latar konten utama
+#secondaryBackgroundColor = "#FFFFFF" # warna sidebar
+secondaryBackgroundColor="#111827"
+#textColor = "#000000"       # warna teks
+font = "sans serif"
