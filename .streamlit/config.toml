@@ -1,6 +1,6 @@
 [server]
 runOnSave = true       # otomatis reload saat file di-save
-port = 8501            # ubah port jika perlu
+#port = 8501            # ubah port jika perlu
 headless = false         # jalankan tanpa membuka browser otomatis (opsional)
 
 [theme]
